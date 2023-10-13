@@ -6,10 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="java-assignment-testing-solution" />
+        <module name="method-overriding-AbdulMajeedShaik" />
+        <module name="method-overriding-kiranchandusaragadam" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="java-assignment-testing-solution" target="11" />
-    </bytecodeTargetLevel>
   </component>
 </project>
